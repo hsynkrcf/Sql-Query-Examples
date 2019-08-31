@@ -1,2 +1,2 @@
 # Sql-Query-Examples
-Sql sorular ve Çözümleri 
+NORHTWİND DATABASE ile T-Sql Sorular ve Çözümleri 
